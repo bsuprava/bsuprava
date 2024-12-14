@@ -3,11 +3,11 @@
 <h3 align="center">A passionate full stack developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif"/>
 
-- 🔭 I’m currently working on **e-Redemption System**
+- 🔭 I’m currently working on **Online e-commerce System**
 
-- 🌱 I’m currently learning **React, Azure Logic App**
+- 🌱 I’m currently learning **Python and AI**
 
-- 💬 Ask me about **Angular, DotNetCore**
+- 💬 Ask me about **React, DotNetCore**
 
 - 📫 How to reach me **sbarikdotnetar1@gmail.com**
 
